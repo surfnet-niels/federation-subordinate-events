@@ -132,7 +132,7 @@ The claims in the Subordinate events statement response are:
 - **iat**: (REQUIRED) Time when the event is related to, using the time format defined for the `iat` claim.
 - **event**: (REQUIRED) String that identifies the event, such as `registration`, `jwks_update`, `metadata_policy_update`, `metadata_update`, or `revocation`.
 - **event_description**: (OPTIONAL) String that may offer additional information about the event.
-- **information_uri**: (OPTIONAL) URI that may offer additional information about the event.
+- **information_uri**: (OPTIONAL) URI that may offer additional information about the event. Use of HTTPs URLs is RECOMMENDED.
 
 #### Example Response
 
