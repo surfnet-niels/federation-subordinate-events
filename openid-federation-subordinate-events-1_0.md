@@ -145,7 +145,7 @@ The claims in the Subordinate events statement response are:
     {
       "iat": 1590000000,
       "event": "registration",
-      "information_uri" : "https://immediate-superior.example.org/policy/Metadata+Registration+Practice+Statement"
+      "information_uri" : "https://immediate-superior.example.org/policy/Metadata_Registration_Practice_Statement"
     },
     {
       "iat": 1590000000,
